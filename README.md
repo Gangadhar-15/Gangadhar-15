@@ -27,8 +27,6 @@ Currently working as a Software Development Engineer, contributing to impactful,
 
 Always open to discussions on technology, innovation, and learning.
 
----
-
 ## 🌐 Connect With Me
 
 <div align="left">
