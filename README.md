@@ -31,11 +31,9 @@ Always open to discussions on technology, innovation, and learning.
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gangadhara-m/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dummy_mail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://YOUR_PORTFOLIO_URL)
-<!-- [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD) -->
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://gangadhar-15.github.io/MyPortfolio)
 </div>
 
 ---
@@ -138,64 +136,6 @@ Always open to discussions on technology, innovation, and learning.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gangadhar-15&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9" />
 
 </div>
-
-<div align="center">
-
-<!-- Contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gangadhar-15&theme=github-compact&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true" />
-
-</div>
-
-
-
----
-
-## 📌 Pinned / Featured Projects
-
-<div align="center">
-<table>
-
-<tr>
-
-<td width="300" align="center">
-
-### 🚀 EMI Calculator  
-A simple and efficient EMI calculator built using JavaScript.<br>
-<a href="https://github.com/Gangadhar-15/EMI_Calculator"><b>🔗 View Repository</b></a>
-</td>
-
-<td width="300" align="center">
-
-### 🌍 Disaster Management  
-A project focused on handling and managing disaster-related data.<br>
-<a href="https://github.com/Gangadhar-15/disaster-management"><b>🔗 View Repository</b></a>
-</td>
-
-</tr>
-</table>
-</div>
----
-
-## 📈 Contribution Heatmap
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/Gangadhar-15" alt="GitHub chart" />
-
-</div>
-
----
-<!-- 
-## 🤝 Support
-
-<div align="center">
-
-If you find my work useful, consider buying me a coffee!
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Gangadhar-15)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Gangadhar-15) -->
-
-<!-- </div> -->
 
 <div align="center">
 
