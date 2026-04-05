@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20Gangadhara M%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20Backend%20%7C%20Frontend%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20There!%20I'm%20GangadharaM%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20Backend%20%7C%20Frontend%20%7C%20DevOps%20Engineer&descAlignY=60&descSize=18" />
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=70&lines=Building+scalable+solutions+%F0%9F%9A%80;Open+source+enthusiast+%F0%9F%8C%9F;Always+learning%2C+always+improving+%F0%9F%93%9A)](https://git.io/typing-svg)
