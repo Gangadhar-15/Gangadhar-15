@@ -141,5 +141,5 @@ Always open to discussions on technology, innovation, and learning.
 
 <!-- Animated wave footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
-<p><i>"First, solve the problem. Then, write the code." – John Johnson</i></p>
+<p><i>“Don’t rush to code, design what deserves to exist.”</i></p>
 </div>
